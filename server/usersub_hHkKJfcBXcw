@@ -1,0 +1,169 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "난 기차가 좋아"
+    } ]
+  }, {
+    "tStartMs": 11069,
+    "dDurationMs": 2431,
+    "segs": [ {
+      "utf8": "혹시 \"기차를 좋아하는 아이\" 에\n대해 들어본 적 있어?"
+    } ]
+  }, {
+    "tStartMs": 13500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "걘 꽤 괜찮은 애인데,\n약간 이상한 부분이 있는 것 같아"
+    } ]
+  }, {
+    "tStartMs": 16000,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "저주를 받은 건지 아니면 혹은 뇌에 문제라도 있는건지"
+    } ]
+  }, {
+    "tStartMs": 18580,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "허구한 날 걔가 한다는 유일한 대사는:\n\"난 기차가 좋아\""
+    } ]
+  }, {
+    "tStartMs": 21500,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "난 기차가 좋아"
+    } ]
+  }, {
+    "tStartMs": 31500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "이 \"난 기차가 좋아\" 아이는 태어난 후부터 한 마디도 하질 않았다지"
+    } ]
+  }, {
+    "tStartMs": 34500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "그 애의 부모님은 당연히 뭔가 소릴 내는 모습을 못 봤다니까"
+    } ]
+  }, {
+    "tStartMs": 37000,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "그런데 학교에 처음으로 가서 선생님이 그 애의 이름을 물어보니까"
+    } ]
+  }, {
+    "tStartMs": 39500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "그 애가 씩 웃으면서 한다는 말이 \n\"난 기차가 좋아\""
+    } ]
+  }, {
+    "tStartMs": 42000,
+    "dDurationMs": 11000,
+    "segs": [ {
+      "utf8": "난 기차가 좋아"
+    } ]
+  }, {
+    "tStartMs": 53000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "부모님은 도움이 될까 싶어 리탈린을 처방해주기로 했어"
+    } ]
+  }, {
+    "tStartMs": 55000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "의사가 완벽한 처방량을 주면서 기분이 어떤지 물었지"
+    } ]
+  }, {
+    "tStartMs": 58000,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "그러자 의사를 쳐다보며 오싹한 웃음을 짓는거야"
+    } ]
+  }, {
+    "tStartMs": 60500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "그리고 난 기차가 좋아 아이는 이렇게 말했지:\n\"전 기분이 좋아요!\""
+    } ]
+  }, {
+    "tStartMs": 63000,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "그는 좋은 직장도 생겼고\n그의 삶은 탄탄대로를 달리고 있었어"
+    } ]
+  }, {
+    "tStartMs": 65500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그는 좋은 여자도 만나서 청혼까지 했지"
+    } ]
+  }, {
+    "tStartMs": 68500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "그 둘이 결혼식장에 서서 맹세를 할 차례가 됐고"
+    } ]
+  }, {
+    "tStartMs": 71000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그가 신부의 손가락에 반지를 끼우면서 이렇게 말했지"
+    } ]
+  }, {
+    "tStartMs": 76000,
+    "dDurationMs": 11000,
+    "segs": [ {
+      "utf8": "난 기차가 좋아"
+    } ]
+  }, {
+    "tStartMs": 87000,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "성적이 안 좋아?"
+    } ]
+  }, {
+    "tStartMs": 88500,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "난 기차가 좋아"
+    } ]
+  }, {
+    "tStartMs": 90000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "역겨운 데이트?"
+    } ]
+  }, {
+    "tStartMs": 91000,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "난 기차가 좋아"
+    } ]
+  }, {
+    "tStartMs": 92500,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "기차를 싫어해?"
+    } ]
+  }, {
+    "tStartMs": 94500,
+    "dDurationMs": 23500,
+    "segs": [ {
+      "utf8": "난 기차가 좋아"
+    } ]
+  } ]
+}
