@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match        *://*.youtube.com/watch
 // @grant       none
-// @version     0.2
+// @version     0.2.1
 // @author      kjy00302
 // @description Proof-of-Concept YouTube user caption loader
 // @run-at       document-start
@@ -96,6 +96,7 @@ function attachXhrOpenInterceptor(onXhrOpenCalled) {
 const USERSUB = {
   HnsDEV7us08: ["ko", "en"],
   hHkKJfcBXcw: ["ko"],
+  H9aC5AGY9YU: ["ko", "en"],
 };
 
 let videoId;
@@ -103,6 +104,16 @@ let videoId;
 function overrideCaption(ytData) {
   videoId = ytData.videoDetails.videoId;
   if (USERSUB[videoId]) {
+    if (!ytData.captions) {
+      ytData.captions = {
+        playerCaptionsTracklistRenderer: {
+          captionTracks: [],
+          audioTracks: [{captionTrackIndices: []}],
+          translationLanguages: [],
+          defaultAudioTrackIndex: 0
+        }
+      }
+    }
     for (const lang of USERSUB[videoId]) {
       let usersub_data = {
         baseUrl: `https:///usersub_${videoId}_${lang}`,

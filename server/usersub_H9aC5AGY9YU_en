@@ -1,0 +1,19 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 10000,
+    "dDurationMs": 2341,
+    "segs": [ {
+      "utf8": "juan."
+    } ]
+  } ]
+}
