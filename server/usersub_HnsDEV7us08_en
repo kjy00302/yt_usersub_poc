@@ -1,0 +1,397 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 8082,
+    "dDurationMs": 7455,
+    "segs": [ {
+      "utf8": "Hey, can you hear it?\nWe're traveling around the world with our voices and our sound"
+    } ]
+  }, {
+    "tStartMs": 15934,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": " C'mon now! No matter the distance"
+    } ]
+  }, {
+    "tStartMs": 20000,
+    "dDurationMs": 1262,
+    "segs": [ {
+      "utf8": "We'll meet-meet-meet you all"
+    } ]
+  }, {
+    "tStartMs": 21262,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "hurry up and...notice us already!"
+    } ]
+  }, {
+    "tStartMs": 22629,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "(OH MY GOSH)"
+    } ]
+  }, {
+    "tStartMs": 24029,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "Ride the wave we can find a brand-new way"
+    } ]
+  }, {
+    "tStartMs": 27228,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "Ride the mystery with us"
+    } ]
+  }, {
+    "tStartMs": 30700,
+    "dDurationMs": 661,
+    "segs": [ {
+      "utf8": "(OH MY GOSH) "
+    } ]
+  }, {
+    "tStartMs": 31361,
+    "dDurationMs": 3273,
+    "segs": [ {
+      "utf8": "Shining rain wake up on a brand-new stage "
+    } ]
+  }, {
+    "tStartMs": 34634,
+    "dDurationMs": 1992,
+    "segs": [ {
+      "utf8": "You got the one-way ticket"
+    } ]
+  }, {
+    "tStartMs": 36626,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "We're never going back, so let's go"
+    } ]
+  }, {
+    "tStartMs": 38717,
+    "dDurationMs": 2038,
+    "segs": [ {
+      "utf8": "I wanna cha-cha-change"
+    } ]
+  }, {
+    "tStartMs": 40755,
+    "dDurationMs": 1948,
+    "segs": [ {
+      "utf8": "I wanna switch it up"
+    } ]
+  }, {
+    "tStartMs": 42703,
+    "dDurationMs": 3509,
+    "segs": [ {
+      "utf8": "Take me awa-wa-way!!"
+    } ]
+  }, {
+    "tStartMs": 46934,
+    "dDurationMs": 2242,
+    "segs": [ {
+      "utf8": "KA-GA-YA-KI-RA-RI-RA"
+    } ]
+  }, {
+    "tStartMs": 49176,
+    "dDurationMs": 4847,
+    "segs": [ {
+      "utf8": "Say the magic words and anything will come true"
+    } ]
+  }, {
+    "tStartMs": 54685,
+    "dDurationMs": 2128,
+    "segs": [ {
+      "utf8": "KA-GA-YA-KI-RA-RI-RA"
+    } ]
+  }, {
+    "tStartMs": 56813,
+    "dDurationMs": 3055,
+    "segs": [ {
+      "utf8": "Where can I say the words? Anywhere is fine"
+    } ]
+  }, {
+    "tStartMs": 59868,
+    "dDurationMs": 1982,
+    "segs": [ {
+      "utf8": "Ooh woah woah woah-oh"
+    } ]
+  }, {
+    "tStartMs": 61850,
+    "dDurationMs": 4277,
+    "segs": [ {
+      "utf8": "The future is a road that connects to many places"
+    } ]
+  }, {
+    "tStartMs": 66127,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Tell me more"
+    } ]
+  }, {
+    "tStartMs": 67267,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "TRUE YOU,TRUE YOU"
+    } ]
+  }, {
+    "tStartMs": 69395,
+    "dDurationMs": 4605,
+    "segs": [ {
+      "utf8": "The heartbeat of many dreams are sparkling!"
+    } ]
+  }, {
+    "tStartMs": 74000,
+    "dDurationMs": 1038,
+    "segs": [ {
+      "utf8": "The future Is in our ocean!!"
+    } ]
+  }, {
+    "tStartMs": 75038,
+    "dDurationMs": 2087,
+    "segs": [ {
+      "utf8": "TRUE BLUE,TRUE BLUE"
+    } ]
+  }, {
+    "tStartMs": 80734,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "Let us be known all over the world! (More!)"
+    } ]
+  }, {
+    "tStartMs": 82935,
+    "dDurationMs": 1118,
+    "segs": [ {
+      "utf8": "Our limit? We have none!"
+    } ]
+  }, {
+    "tStartMs": 84053,
+    "dDurationMs": 795,
+    "segs": [ {
+      "utf8": "(Whoo-whoo!)"
+    } ]
+  }, {
+    "tStartMs": 84848,
+    "dDurationMs": 1944,
+    "segs": [ {
+      "utf8": "It'll never end, and I don't want it to."
+    } ]
+  }, {
+    "tStartMs": 86792,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Therefore, it won't ever come to end."
+    } ]
+  }, {
+    "tStartMs": 88692,
+    "dDurationMs": 1237,
+    "segs": [ {
+      "utf8": "KI-RA-RI dancing hearts"
+    } ]
+  }, {
+    "tStartMs": 89929,
+    "dDurationMs": 771,
+    "segs": [ {
+      "utf8": "I CATCH UP"
+    } ]
+  }, {
+    "tStartMs": 90700,
+    "dDurationMs": 1315,
+    "segs": [ {
+      "utf8": "KI-RA-RI our dreams are shining"
+    } ]
+  }, {
+    "tStartMs": 92015,
+    "dDurationMs": 673,
+    "segs": [ {
+      "utf8": "I'mma SNATCH UP"
+    } ]
+  }, {
+    "tStartMs": 92688,
+    "dDurationMs": 3463,
+    "segs": [ {
+      "utf8": "Aaah I can't wait anymore"
+    } ]
+  }, {
+    "tStartMs": 96698,
+    "dDurationMs": 6561,
+    "segs": [ {
+      "utf8": "We're not going to give up with every fibre of our beings"
+    } ]
+  }, {
+    "tStartMs": 103259,
+    "dDurationMs": 6210,
+    "segs": [ {
+      "utf8": "The power that defies all odds...that's our \"shine\"."
+    } ]
+  }, {
+    "tStartMs": 109732,
+    "dDurationMs": 1603,
+    "segs": [ {
+      "utf8": "Ready, Set it, Get it"
+    } ]
+  }, {
+    "tStartMs": 111335,
+    "dDurationMs": 602,
+    "segs": [ {
+      "utf8": "POW!!"
+    } ]
+  }, {
+    "tStartMs": 112334,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "KA-GA-YA-KI-RA-RI-RA"
+    } ]
+  }, {
+    "tStartMs": 114505,
+    "dDurationMs": 4796,
+    "segs": [ {
+      "utf8": "At any time, always remember the spell of hope"
+    } ]
+  }, {
+    "tStartMs": 119946,
+    "dDurationMs": 2195,
+    "segs": [ {
+      "utf8": "KA-GA-YA-KI-RA-RI-RA"
+    } ]
+  }, {
+    "tStartMs": 122141,
+    "dDurationMs": 2845,
+    "segs": [ {
+      "utf8": "Whose words are they? They're everyone's words"
+    } ]
+  }, {
+    "tStartMs": 124986,
+    "dDurationMs": 2659,
+    "segs": [ {
+      "utf8": "Ooh woah woah woah-oh"
+    } ]
+  }, {
+    "tStartMs": 129264,
+    "dDurationMs": 1484,
+    "segs": [ {
+      "utf8": "Girls"
+    } ]
+  }, {
+    "tStartMs": 130748,
+    "dDurationMs": 2004,
+    "segs": [ {
+      "utf8": "And fantasy...　"
+    } ]
+  }, {
+    "tStartMs": 132752,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "Shake it,Make it POP! POP!"
+    } ]
+  }, {
+    "tStartMs": 135500,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "Imagine, Create, Your Passion, Your Fate "
+    } ]
+  }, {
+    "tStartMs": 139367,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Just dive in, "
+    } ]
+  }, {
+    "tStartMs": 140200,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "Don't wait"
+    } ]
+  }, {
+    "tStartMs": 142315,
+    "dDurationMs": 5819,
+    "segs": [ {
+      "utf8": "Ah, this is fun! I'll do it again today, and laugh with you"
+    } ]
+  }, {
+    "tStartMs": 148134,
+    "dDurationMs": 1893,
+    "segs": [ {
+      "utf8": "as we walk into tomorrow"
+    } ]
+  }, {
+    "tStartMs": 150027,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Let's have fun! Today is only today,"
+    } ]
+  }, {
+    "tStartMs": 154067,
+    "dDurationMs": 3802,
+    "segs": [ {
+      "utf8": "but tomorrow will shine even brighter!"
+    } ]
+  }, {
+    "tStartMs": 158000,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "KA-GA-YA-KI-RA-RI-RA"
+    } ]
+  }, {
+    "tStartMs": 160521,
+    "dDurationMs": 5479,
+    "segs": [ {
+      "utf8": "Say the magic words and anything will come true"
+    } ]
+  }, {
+    "tStartMs": 166000,
+    "dDurationMs": 2074,
+    "segs": [ {
+      "utf8": "KA-GA-YA-KI-RA-RI-RA"
+    } ]
+  }, {
+    "tStartMs": 168302,
+    "dDurationMs": 2879,
+    "segs": [ {
+      "utf8": "Where can I say the words? Anywhere is fine"
+    } ]
+  }, {
+    "tStartMs": 171181,
+    "dDurationMs": 2318,
+    "segs": [ {
+      "utf8": "Ooh woah woah woah-oh"
+    } ]
+  }, {
+    "tStartMs": 173534,
+    "dDurationMs": 5564,
+    "segs": [ {
+      "utf8": "The future is a road that connects to many places; Tell me more"
+    } ]
+  }, {
+    "tStartMs": 179098,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "TRUE YOU,TRUE YOU"
+    } ]
+  }, {
+    "tStartMs": 180858,
+    "dDurationMs": 4727,
+    "segs": [ {
+      "utf8": "The heartbeat of many dreams are sparkling!"
+    } ]
+  }, {
+    "tStartMs": 185585,
+    "dDurationMs": 1078,
+    "segs": [ {
+      "utf8": "The future Is in our ocean!!"
+    } ]
+  }, {
+    "tStartMs": 186684,
+    "dDurationMs": 2049,
+    "segs": [ {
+      "utf8": "TRUE BLUE,TRUE BLUE"
+    } ]
+  } ]
+}

@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match        *://*.youtube.com/watch
 // @grant       none
-// @version     0.1
+// @version     0.2
 // @author      kjy00302
 // @description Proof-of-Concept YouTube user caption loader
 // @run-at       document-start
@@ -93,21 +93,29 @@ function attachXhrOpenInterceptor(onXhrOpenCalled) {
   };
 }
 
+const USERSUB = {
+  HnsDEV7us08: ["ko", "en"],
+  hHkKJfcBXcw: ["ko"],
+};
+
 let videoId;
 
 function overrideCaption(ytData) {
   videoId = ytData.videoDetails.videoId;
-  if (videoId == "hHkKJfcBXcw") {
-    let usersub_data = {
-      baseUrl: "https://example.com/usersub_" + videoId,
-      name: {simpleText: "UserSub PoC"},
-      vssId: ".zz",
-      languageCode: "zz",
-      isTranslatable: true,
-      trackName: "UserSub_" + videoId
-    };
-    let ind = ytData.captions.playerCaptionsTracklistRenderer.captionTracks.push(usersub_data);
-    ytData.captions.playerCaptionsTracklistRenderer.audioTracks[0].captionTrackIndices.push(ind - 1);
+  if (USERSUB[videoId]) {
+    for (const lang of USERSUB[videoId]) {
+      let usersub_data = {
+        baseUrl: `https:///usersub_${videoId}_${lang}`,
+        name: {simpleText: `UserSub PoC (${lang.toUpperCase()})`},
+        vssId: `.${lang}`,
+        languageCode: lang,
+        isTranslatable: true,
+        trackName: `UserSub_${videoId}_${lang}`,
+      };
+      let ind = ytData.captions.playerCaptionsTracklistRenderer.captionTracks.push(usersub_data);
+      ytData.captions.playerCaptionsTracklistRenderer.audioTracks[0].captionTrackIndices.push(ind - 1);
+      console.log(`load usersub: ${usersub_data.trackName}`);
+    }
   }
   return ytData;
 }
@@ -116,14 +124,14 @@ attachInitialDataInterceptor(overrideCaption)
 
 
 function overrideCaptionUrl(xhr, method, url) {
-  if (url.pathname == "/usersub_" + videoId) {
+  if (url.pathname.startsWith("/usersub_")) {
     url.hostname = "localhost"
     url.port = "8000"
     url.protocol = "http:"
     Object.defineProperty(xhr, "withCredentials", {
       set: () => {},
       get: () => false });
-    console.log("override caption url:" + url.toString());
+    console.log(`override usersub url: ${url.toString()}`);
     return url.toString();
   }
   return;
